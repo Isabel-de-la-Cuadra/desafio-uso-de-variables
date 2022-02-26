@@ -133,7 +133,7 @@ document.write("<br>");
 document.write("La suma de los números es: " + (numero01 + numero02 + numero03 + numero04 + numero05));
 document.write("<br>");
 //Mostrar el promedio de los números ingresados
-document.write("La suma de los números es: " + ((numero01 + numero02 + numero03 + numero04 + numero05) / 5));
+document.write("El promedio de los números es: " + ((numero01 + numero02 + numero03 + numero04 + numero05) / 5));
 document.write("<br>");
 document.write("<br>");
 document.write("¡Gracias por colaborar con este desafío!");
